@@ -7,13 +7,13 @@ Use Jupyter Notebook to communicate findings
 Run an end-to-end data analytics project
 Become familiar with data analytics workflows
 
-<b>Prerequisites:</b>
-Python Fundamentals
-Data Acquisition
-Data Manipulation with Pandas
-Data Wrangling and Tidying
-Summary Statistics
-Data Visualization
-Communicating Data Analysis Findings
-Excel
+<b>Prerequisites:</b>\
+Python Fundamentals\
+Data Acquisition\
+Data Manipulation with Pandas\
+Data Wrangling and Tidying\
+Summary Statistics\
+Data Visualization\
+Communicating Data Analysis Findings\
+Excel\
 Tableau
