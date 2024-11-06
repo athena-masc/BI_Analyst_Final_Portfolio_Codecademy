@@ -6,7 +6,8 @@ Use Git version control
 Use Jupyter Notebook to communicate findings
 Run an end-to-end data analytics project
 Become familiar with data analytics workflows
-Prerequisites:
+
+<b>Prerequisites:</b>
 Python Fundamentals
 Data Acquisition
 Data Manipulation with Pandas
